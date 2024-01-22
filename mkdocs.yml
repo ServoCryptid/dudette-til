@@ -26,16 +26,11 @@ theme:
       primary: teal
       accent: lime
 
-plugins:
-  - social
-
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
+      link: https://github.com/ServoCryptid
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
+      link: https://twitter.com/LBiriescu
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
-
-#TODO: create virtual env 
+      link: https://www.linkedin.com/in/%E2%9C%A8-larisa-maria-biriescu-b719ab11b/
